@@ -9,7 +9,7 @@ vue通讯录
 * sessionStorage
 ```
 # clone项目到本地
-git clone https://github.com/windlany/mail_list.git
+git clone 
 
 # 安装项目依赖
 npm install
