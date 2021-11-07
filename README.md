@@ -9,7 +9,7 @@ vue通讯录
 * sessionStorage
 ```
 # clone项目到本地
-git clone 
+git clone https://github.com/Leo-xx/letter
 
 # 安装项目依赖
 npm install
